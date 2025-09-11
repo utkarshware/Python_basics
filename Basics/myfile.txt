@@ -1,0 +1,3 @@
+I dont want this 
+I am bored
+myfile.read()
